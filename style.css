@@ -1,0 +1,27 @@
+body {
+  background-color:black;
+}
+h1 {
+  color:black;
+  font-family:monospace;
+  background-color: white;
+  padding:25px;
+}
+
+h2 {
+  color:white;
+  background-color:black;
+  font-family:monospace;
+  border:5px solid white;
+  padding: 25px;
+}
+a {color: yellow;
+  font-family:times;
+  padding: 15px;
+}
+img {
+  width: 80%;
+  height: 80%;
+  margin-left: 10px;
+  margin-bottom: 25px;
+}
